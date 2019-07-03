@@ -1,0 +1,56 @@
+page{
+  background: #e5e5e5;
+}
+image{
+  width: 40px;
+  height: 40px;
+  border: 1px solid #fff;
+  border-radius:50%; 
+  float: left;
+}
+.lele{
+  width: 380px;
+  border-bottom:2px dashed #dd9898;
+  margin: 0 auto; 
+}
+.bone{
+  width: 380px;
+  height: 47px;
+}
+.bone text{
+ display: block;
+ float: left;
+ width: 320px;
+ height: 40px;
+ text-align: left;
+ line-height: 42px;
+ margin-left: 10px;
+ color: #c05;
+}
+.yc text{
+   text-indent: 2em;
+}
+.pl{
+  border:  2px solid #e5e5e5;
+  border-radius:10px; 
+  margin-bottom: 10px;
+  padding: 5px;
+  background: rgb(247, 234, 234);
+}
+
+.rp{
+  width: 380px;
+  height: 42px;
+}
+.rp text{
+ display: block;
+ float: left;
+ width: 320px;
+ height: 40px;
+ text-align: left;
+ line-height: 42px;
+ margin-left: 10px;
+ color: #c05;
+}
+
+

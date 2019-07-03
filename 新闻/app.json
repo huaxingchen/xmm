@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/news/news",
+    "pages/shenping/shenping",
+    "pages/sacc/sacc",
+    "pages/saccs/saccs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F4A460",
+    "navigationBarTitleText": "乐乐",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/news/news",
+      "text": "冷笑话",
+      "iconPath": "./ings/b1.png",
+      "selectedIconPath": "./ings/b2.png"
+    },
+    {
+      "pagePath": "pages/shenping/shenping",
+      "text": "神评论",
+      "iconPath": "./ings/s1.png",
+      "selectedIconPath": "./ings/s2.png"
+    },
+    {
+      "pagePath": "pages/sacc/sacc",
+      "text": "新闻",
+      "iconPath": "./ings/x1.png",
+      "selectedIconPath": "./ings/x2.png"
+    }
+    ],
+    "backgroundColor": "#F4A460",
+    "selectedColor": "#6495ED"
+  }
+ 
+  
+}

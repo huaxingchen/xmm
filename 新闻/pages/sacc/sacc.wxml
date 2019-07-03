@@ -1,0 +1,40 @@
+<scroll-view scroll-y>
+  <view wx:for="{{arr}}" wx:key="{{index}}" bindtap='sv' data-id='{{item.id}}' data-text='{{item.abstract}}'>
+    <text>{{item.title}}</text>
+  </view>
+</scroll-view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

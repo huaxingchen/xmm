@@ -1,0 +1,22 @@
+<scroll-view scroll-y>
+  <view wx:for="{{list}}" wx:key="{{index}}" class='le'>
+    <view class='tioa'>
+      <image src='{{item.profile_image}}'></image>
+      <text class='tt'>{{item.name}}</text>
+    </view>
+    <view class='vt'>
+    {{item.text}}
+    </view>
+  </view>
+</scroll-view>
+
+
+
+
+
+
+
+
+
+
+

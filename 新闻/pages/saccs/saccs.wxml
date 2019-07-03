@@ -1,0 +1,38 @@
+<scroll-view scroll-y>
+  <text>{{text}}</text>
+  <view wx:for="{{str}}" wx:key="{{index}}" class='phas'>
+  <view>
+    <view class='name'>
+      <image src='{{item.author.large_avatar}}'></image>
+      <text class='user'>{{item.author.name}}</text>
+    </view>
+    <text>{{item.content}}</text>
+  </view>
+  </view>
+</scroll-view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

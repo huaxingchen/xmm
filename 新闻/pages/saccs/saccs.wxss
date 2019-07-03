@@ -1,0 +1,54 @@
+image{
+  width: 40px;
+  height: 40px;
+  border: 1px solid #fff;
+  border-radius:50%; 
+  float: left;
+}
+.phas{
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #e3c5e6;
+  margin-bottom: 10px;
+}
+.name{
+  width: 400px;
+  height: 42px;
+  margin-bottom: 10px;
+}
+.user{
+  display: block;
+  width: 340px;
+  height: 42px;
+  float: left;
+  text-align: left;
+  line-height: 42px;
+  margin-left: 10px;
+  color: #d56edf
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
